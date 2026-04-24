@@ -34,7 +34,7 @@ ui <- page_fluid(
         card_body(
           p("MPs’ ties to interest groups over time, by parliamentary party group."),
           tags$a(
-            href = "https://019dbf7a-ab58-05ee-1664-d50b1f6116c3.share.connect.posit.cloud/",
+            href = "https://019dbfcb-8314-5a8b-3e17-49c1b303b983.share.connect.posit.cloud/",
             target = "_blank",
             class = "btn btn-primary",
             "Open Chapter 5 app"
